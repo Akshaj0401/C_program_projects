@@ -1,2 +1,3 @@
-# C_program_projects
+# First_start
 This is my first Git Repository
+Author - Akshaj Kumar
